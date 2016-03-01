@@ -1,0 +1,250 @@
+Date, UserID, Scenario, Branch, Variable, Action, NewValue, OldValue, ChangeID, ScenarioID, BranchID, VariableID, NewValue, OldValue
+2015-12-01 04:28:21,SYL,,,[General]ComputerName,Area-wide setting changed,LEESY-PC,JACK-XPS-VM-XP,   15,0,0,0,LEESY-PC,JACK-XPS-VM-XP
+2015-12-01 04:28:21,SYL,,,,Area directory changed,Salt Lake City,Test PGM,   3,0,0,0,Salt Lake City,Test PGM
+2015-12-01 04:29:49,SYL,,,FullExtentTop,Area-wide setting changed,40.8773333091567,84.7187748398892,   15,0,0,834,40.8773333091567,84.7187748398892
+2015-12-01 04:29:49,SYL,,,FullExtentLeft,Area-wide setting changed,-112.057022552037,-176.955602536998,   15,0,0,835,-112.057022552037,-176.955602536998
+2015-12-01 04:29:49,SYL,,,FullExtentRight,Area-wide setting changed,-111.639251214845,180,   15,0,0,837,-111.639251214845,180
+2015-12-01 04:29:49,SYL,,,FullExtentBottom,Area-wide setting changed,40.3687421160533,-59.509554969836,   15,0,0,836,40.3687421160533,-59.509554969836
+2015-12-01 04:29:55,SYL,,,,Area saved,,,   4,0,0,0,,
+2015-12-01 04:29:55,SYL,,,[General]WEAPVersion,Area-wide setting changed,2015,3.4405,   15,0,0,0,2015,3.4405
+2015-12-01 04:29:55,SYL,,,[General]LastEditedBy,Area-wide setting changed,"Seungyub Lee, University of Utah, USA",Stockholm Environment Institute,   15,0,0,0,"Seungyub Lee, University of Utah, USA",Stockholm Environment Institute
+2015/12/01 06:43:29,SYL,,,[General]ComputerName,Area-wide setting changed,CME-119-03,LEESY-PC,   15,0,0,0,CME-119-03,LEESY-PC
+2015/12/01 06:44:28,SYL,Current Accounts,City Creek,,Create River,,,   5,1,2,6,,
+2015/12/01 06:44:29,SYL,Current Accounts,Below City Creek Headflow,,Create River Reach,,,   5,1,3,16,,
+2015/12/01 06:44:42,SYL,Current Accounts,Dell Creek,,Create River,,,   5,1,4,6,,
+2015/12/01 06:44:42,SYL,Current Accounts,Below Dell Creek Headflow,,Create River Reach,,,   5,1,5,16,,
+2015/12/01 06:44:59,SYL,Current Accounts,Lambs Creek,,Create River,,,   5,1,6,6,,
+2015/12/01 06:44:59,SYL,Current Accounts,Below Lambs Creek Headflow,,Create River Reach,,,   5,1,7,16,,
+2015/12/01 06:45:15,SYL,Current Accounts,Big Cottonwood,,Create River,,,   5,1,8,6,,
+2015/12/01 06:45:15,SYL,Current Accounts,Below Big Cottonwood Headflow,,Create River Reach,,,   5,1,9,16,,
+2015/12/01 06:45:20,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 06:45:37,SYL,,,TextZoomFactor,Area-wide setting changed,0.00718026075401414,0.098722641965,   15,0,0,832,0.00718026075401414,0.098722641965
+2015/12/01 06:46:14,SYL,,,TextZoomFactor,Area-wide setting changed,0.00318738706076355,0.00718026075401414,   15,0,0,832,0.00318738706076355,0.00718026075401414
+2015/12/01 06:46:44,SYL,Current Accounts,City Creek watershed,,Create Catchment,,,   5,1,14,21,,
+2015/12/01 06:46:44,SYL,Current Accounts,City Creek watershed,,Change Active in Current Accounts?,Yes,,   6,1,14,0,Yes,
+2015/12/01 06:46:56,SYL,Current Accounts,Dell Creek watershed,,Create Catchment,,,   5,1,15,21,,
+2015/12/01 06:46:56,SYL,Current Accounts,Dell Creek watershed,,Change Active in Current Accounts?,Yes,,   6,1,15,0,Yes,
+2015/12/01 06:47:05,SYL,Current Accounts,Lamb Creek watershed,,Create Catchment,,,   5,1,16,21,,
+2015/12/01 06:47:05,SYL,Current Accounts,Lamb Creek watershed,,Change Active in Current Accounts?,Yes,,   6,1,16,0,Yes,
+2015/12/01 06:47:20,SYL,Current Accounts,Big Cottonwood watershed,,Create Catchment,,,   5,1,17,21,,
+2015/12/01 06:47:20,SYL,Current Accounts,Big Cottonwood watershed,,Change Active in Current Accounts?,Yes,,   6,1,17,0,Yes,
+2015/12/01 06:47:25,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 06:47:55,SYL,Current Accounts,City Creek watershed Runoff,,Create Catchment Inflow Node,,,   5,1,22,23,,
+2015/12/01 06:47:55,SYL,Current Accounts,Below City Creek watershed Runoff,,Create River Reach,,,   5,1,23,16,,
+2015/12/01 06:47:55,SYL,Current Accounts,Runoff/Infiltration from City Creek watershed to City Creek,,Create Runoff/Infiltration,,,   5,1,24,22,,
+2015/12/01 06:48:00,SYL,Current Accounts,Dell Creek watershed Runoff,,Create Catchment Inflow Node,,,   5,1,25,23,,
+2015/12/01 06:48:00,SYL,Current Accounts,Below Dell Creek watershed Runoff,,Create River Reach,,,   5,1,26,16,,
+2015/12/01 06:48:00,SYL,Current Accounts,Runoff/Infiltration from Dell Creek watershed to Dell Creek,,Create Runoff/Infiltration,,,   5,1,27,22,,
+2015/12/01 06:48:04,SYL,Current Accounts,Lamb Creek watershed Runoff,,Create Catchment Inflow Node,,,   5,1,28,23,,
+2015/12/01 06:48:04,SYL,Current Accounts,Below Lamb Creek watershed Runoff,,Create River Reach,,,   5,1,29,16,,
+2015/12/01 06:48:04,SYL,Current Accounts,Runoff/Infiltration from Lamb Creek watershed to Lambs Creek,,Create Runoff/Infiltration,,,   5,1,30,22,,
+2015/12/01 06:48:08,SYL,Current Accounts,Big Cottonwood watershed Runoff,,Create Catchment Inflow Node,,,   5,1,31,23,,
+2015/12/01 06:48:08,SYL,Current Accounts,Below Big Cottonwood watershed Runoff,,Create River Reach,,,   5,1,32,16,,
+2015/12/01 06:48:08,SYL,Current Accounts,Runoff/Infiltration from Big Cottonwood watershed to Big Cottonwood,,Create Runoff/Infiltration,,,   5,1,33,22,,
+2015/12/01 06:48:14,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 06:48:22,SYL,,Demand Sites and Catchments\City Creek watershed,Method,Change data,1,0,   20,-1,103,136,1,0
+2015/12/01 06:48:22,SYL,,Demand Sites and Catchments\Dell Creek watershed,Method,Change data,1,0,   20,-1,108,136,1,0
+2015/12/01 06:48:22,SYL,,Demand Sites and Catchments\Lamb Creek watershed,Method,Change data,1,0,   20,-1,113,136,1,0
+2015/12/01 06:48:22,SYL,,Demand Sites and Catchments\Big Cottonwood watershed,Method,Change data,1,0,   20,-1,118,136,1,0
+2015/12/01 06:48:42,SYL,,,BaseYear,Area-wide setting changed,1980,2010,   15,0,0,8,1980,2010
+2015/12/01 06:48:42,SYL,,,EndYear,Area-wide setting changed,2009,2015,   15,0,0,9,2009,2015
+2015/12/01 06:49:59,SYL,,Demand Sites and Catchments\City Creek watershed,ActivityUnit,Change data,35,95,   20,-1,103,23,35,95
+2015/12/01 06:50:02,SYL,,Demand Sites and Catchments\Dell Creek watershed,ActivityUnit,Change data,35,95,   20,-1,108,23,35,95
+2015/12/01 06:50:05,SYL,,Demand Sites and Catchments\Lamb Creek watershed,ActivityUnit,Change data,35,95,   20,-1,113,23,35,95
+2015/12/01 06:50:08,SYL,,Demand Sites and Catchments\Big Cottonwood watershed,ActivityUnit,Change data,35,95,   20,-1,118,23,35,95
+2015/12/01 06:50:11,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Area,New expression,45,,   1,1,103,137,45,
+2015/12/01 06:50:14,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,Area,New expression,54,,   1,1,108,137,54,
+2015/12/01 06:50:16,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,Area,New expression,44,,   1,1,113,137,44,
+2015/12/01 06:50:19,SYL,Current Accounts,Demand Sites and Catchments\Big Cottonwood watershed,Area,New expression,120,,   1,1,118,137,120,
+2015/12/01 06:50:28,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Effective Precipitation,New expression,85,,   1,1,103,93,85,
+2015/12/01 06:50:36,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,Effective Precipitation,New expression,85,,   1,1,108,93,85,
+2015/12/01 06:50:38,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,Effective Precipitation,New expression,85,,   1,1,113,93,85,
+2015/12/01 06:50:40,SYL,Current Accounts,Demand Sites and Catchments\Big Cottonwood watershed,Effective Precipitation,New expression,85,,   1,1,118,93,85,
+2015/12/01 06:51:01,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Kc,New expression,"MonthlyValues( Jan, 0.9,  Feb, 0.9,  Mar, 1,  Apr, 1.1,  May, 1.4,  Jun, 1.1,  Jul, 1.1,  Aug, 1.1,  Sep, 0.9,  Oct, 0.9,  Nov, 0.9,  Dec, 0.9 )",,   1,1,103,92,"@F040(' 1, 0.9,  2, 0.9,  3, 1,  4, 1.1,  5, 1.4,  6, 1.1,  7, 1.1,  8, 1.1,  9, 0.9,  10, 0.9,  11, 0.9,  12, 0.9 ')",
+2015/12/01 06:51:16,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,Kc,New expression,"MonthlyValues( Jan, 1,  Feb, 1,  Mar, 1.2,  Apr, 1.2,  May, 1.5,  Jun, 1.2,  Jul, 1.2,  Aug, 1.2,  Sep, 1,  Oct, 1,  Nov, 1,  Dec, 1 )",,   1,1,108,92,"@F040(' 1, 1,  2, 1,  3, 1.2,  4, 1.2,  5, 1.5,  6, 1.2,  7, 1.2,  8, 1.2,  9, 1,  10, 1,  11, 1,  12, 1 ')",
+2015/12/01 06:51:29,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,Kc,New expression,"MonthlyValues( Jan, 1,  Feb, 1,  Mar, 1.1,  Apr, 1.1,  May, 1.4,  Jun, 1.2,  Jul, 1.2,  Aug, 1.2,  Sep, 1,  Oct, 1,  Nov, 1,  Dec, 1 )",,   1,1,113,92,"@F040(' 1, 1,  2, 1,  3, 1.1,  4, 1.1,  5, 1.4,  6, 1.2,  7, 1.2,  8, 1.2,  9, 1,  10, 1,  11, 1,  12, 1 ')",
+2015/12/01 06:52:03,SYL,Current Accounts,Demand Sites and Catchments\Big Cottonwood watershed,Kc,New expression,"MonthlyValues( Jan, 1.1,  Feb, 1.1,  Mar, 1.2,  Apr, 1.3,  May, 1.6,  Jun, 1.1,  Jul, 1.1,  Aug, 1.1,  Sep, 1.1,  Oct, 1.1,  Nov, 1.1,  Dec, 1.1 )",,   1,1,118,92,"@F040(' 1, 1.1,  2, 1.1,  3, 1.2,  4, 1.3,  5, 1.6,  6, 1.1,  7, 1.1,  8, 1.1,  9, 1.1,  10, 1.1,  11, 1.1,  12, 1.1 ')",
+2015/12/01 06:52:25,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)",,   1,1,103,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv', ', , 8')",
+2015/12/01 06:52:25,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)","ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)",   1,1,103,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv',' , , 8')","@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv', ', , 8')"
+2015/12/01 06:52:30,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)",,   1,1,108,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv', ', , 8')",
+2015/12/01 06:52:30,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)","ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)",   1,1,108,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv',' , , 8')","@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv', ', , 8')"
+2015/12/01 06:52:36,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)",,   1,1,113,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv', ', , 8')",
+2015/12/01 06:52:36,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)","ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)",   1,1,113,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv',' , , 8')","@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv', ', , 8')"
+2015/12/01 06:52:41,SYL,Current Accounts,Demand Sites and Catchments\Big Cottonwood watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)",,   1,1,118,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv', ', , 8')",
+2015/12/01 06:52:41,SYL,Current Accounts,Demand Sites and Catchments\Big Cottonwood watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)","ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv, , , Average)",   1,1,118,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv',' , , 8')","@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\Parleys.csv', ', , 8')"
+2015/12/01 06:53:20,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,ETref,New expression,"MonthlyValues( Jan, 10.9,  Feb, 20.8,  Mar, 51.6,  Apr, 88.9,  May, 134.4,  Jun, 169.9,  Jul, 209.8,  Aug, 175.5,  Sep, 113,  Oct, 60.45,  Nov, 21.3,  Dec, 9.4 )",,   1,1,103,126,"@F040(' 1, 10.9,  2, 20.8,  3, 51.6,  4, 88.9,  5, 134.4,  6, 169.9,  7, 209.8,  8, 175.5,  9, 113,  10, 60.45,  11, 21.3,  12, 9.4 ')",
+2015/12/01 06:53:40,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,ETref,New expression,"MonthlyValues( Jan, 10.9,  Feb, 20.8,  Mar, 51.6,  Apr, 88.9,  May, 134.4,  Jun, 169.9,  Jul, 209.8,  Aug, 175.5,  Sep, 113,  Oct, 60.45,  Nov, 21.3,  Dec, 9.4 )",,   1,1,108,126,"@F040(' 1, 10.9,  2, 20.8,  3, 51.6,  4, 88.9,  5, 134.4,  6, 169.9,  7, 209.8,  8, 175.5,  9, 113,  10, 60.45,  11, 21.3,  12, 9.4 ')",
+2015/12/01 06:54:04,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,ETref,New expression,"MonthlyValues( Jan, 10.9,  Feb, 20.8,  Mar, 51.6,  Apr, 88.9,  May, 134.4,  Jun, 169.9,  Jul, 209.8,  Aug, 175.5,  Sep, 113,  Oct, 60.45,  Nov, 21.3,  Dec, 9.4 )",,   1,1,113,126,"@F040(' 1, 10.9,  2, 20.8,  3, 51.6,  4, 88.9,  5, 134.4,  6, 169.9,  7, 209.8,  8, 175.5,  9, 113,  10, 60.45,  11, 21.3,  12, 9.4 ')",
+2015/12/01 06:54:22,SYL,Current Accounts,Demand Sites and Catchments\Big Cottonwood watershed,ETref,New expression,"MonthlyValues( Jan, 10.9,  Feb, 20.8,  Mar, 51.6,  Apr, 88.9,  May, 134.4,  Jun, 169.9,  Jul, 209.8,  Aug, 175.5,  Sep, 113,  Oct, 60.45,  Nov, 21.3,  Dec, 9.4 )",,   1,1,118,126,"@F040(' 1, 10.9,  2, 20.8,  3, 51.6,  4, 88.9,  5, 134.4,  6, 169.9,  7, 209.8,  8, 175.5,  9, 113,  10, 60.45,  11, 21.3,  12, 9.4 ')",
+2015/12/01 06:54:29,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 06:54:29,SYL,,,[General]StartYear,Area-wide setting changed,1980,2010,   15,0,0,0,1980,2010
+2015/12/01 06:54:29,SYL,,,[General]EndYear,Area-wide setting changed,2009,2015,   15,0,0,0,2009,2015
+2015/12/01 06:54:29,SYL,,,[General]Scenarios,Area-wide setting changed,"(""Reference"", ""rcp26"", ""rcp45"", ""rcp60"", ""rcp85"")","(""Reference"")",   15,0,0,0,"(""Reference"", ""rcp26"", ""rcp45"", ""rcp60"", ""rcp85"")","(""Reference"")"
+2015/12/01 07:00:35,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)","ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)",   1,1,103,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv', ', , 8')","@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv',' , , 8')"
+2015/12/01 07:00:35,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Precipitation,New expression,"ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)","ReadFromFile(C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv, , , Average)",   1,1,103,125,"@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv',' , , 8')","@F050('C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\3.Class-Material\Wk#14\1\SaltLakeAirport.csv', ', , 8')"
+2015/12/01 07:00:39,SYL,Current Accounts,Demand Sites and Catchments\City Creek watershed,Area,New expression,46,45,   1,1,103,137,46,45
+2015/12/01 07:00:42,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:00:50,SYL,Current Accounts,,,Calculate results,0:0:00.030,0 seconds per year (Catchments calculated: 4 of 4),   14,1,0,0,0:0:00.030,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:00:50,SYL,Reference,,,Calculate results,0:0:00.199,0 seconds per year (Catchments calculated: 4 of 4),   14,2,0,0,0:0:00.199,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:00:51,SYL,rcp26,,,Calculate results,0:0:00.204,0 seconds per year (Catchments calculated: 4 of 4),   14,3,0,0,0:0:00.204,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:00:51,SYL,rcp45,,,Calculate results,0:0:00.203,0 seconds per year (Catchments calculated: 4 of 4),   14,4,0,0,0:0:00.203,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:00:51,SYL,rcp60,,,Calculate results,0:0:00.203,0 seconds per year (Catchments calculated: 4 of 4),   14,5,0,0,0:0:00.203,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:00:51,SYL,rcp85,,,Calculate results,0:0:00.200,0 seconds per year (Catchments calculated: 4 of 4),   14,6,0,0,0:0:00.200,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:00:52,SYL,,,,Calculate results,0:00:01.498,"0.01 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:00.148 (h:m:s), NumSolves=1752, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0",   14,0,0,0,0:00:01.498,"0.01 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:00.148 (h:m:s), NumSolves=1752, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0"
+2015/12/01 07:02:15,SYL,Current Accounts,Little Dell,,Create Reservoir,,,   5,1,38,4,,
+2015/12/01 07:02:15,SYL,Current Accounts,Little Dell,,Change Active in Current Accounts?,Yes,,   6,1,38,0,Yes,
+2015/12/01 07:02:15,SYL,Current Accounts,Below Little Dell,,Create River Reach,,,   5,1,39,16,,
+2015/12/01 07:02:26,SYL,Current Accounts,Mountain Dell,,Create Reservoir,,,   5,1,40,4,,
+2015/12/01 07:02:26,SYL,Current Accounts,Mountain Dell,,Change Active in Current Accounts?,Yes,,   6,1,40,0,Yes,
+2015/12/01 07:02:26,SYL,Current Accounts,Below Mountain Dell,,Create River Reach,,,   5,1,41,16,,
+2015/12/01 07:02:30,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:03:30,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Storage Capacity,New expression,24.7,,   1,1,139,909,24.7,
+2015/12/01 07:03:33,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Initial Storage,New expression,15,,   1,1,139,910,15,
+2015/12/01 07:03:40,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Volume Elevation Curve,New expression,"VolumeElevation( 0, 210 )",,   1,1,139,911,"@F048(' 0, 210 ')",
+2015/12/01 07:03:44,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Volume Elevation Curve,New expression,"VolumeElevation( 0, 210, 15, 220 )","VolumeElevation( 0, 210 )",   1,1,139,911,"@F048(' 0, 210, 15, 220 ')","@F048(' 0, 210 ')"
+2015/12/01 07:03:47,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Volume Elevation Curve,New expression,"VolumeElevation( 0, 210, 15, 220, 24.7, 225 )","VolumeElevation( 0, 210, 15, 220 )",   1,1,139,911,"@F048(' 0, 210, 15, 220, 24.7, 225 ')","@F048(' 0, 210, 15, 220 ')"
+2015/12/01 07:04:30,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Net Evaporation,New expression,"MonthlyValues( Jan, 10.9,  Feb, 20.8,  Mar, 51.6,  Apr, 88.9,  May, 134.4,  Jun, 169.9,  Jul, 209.8,  Aug, 175.5,  Sep, 113,  Oct, 60.45,  Nov, 21.3,  Dec, 9.4 )",,   1,1,139,882,"@F040(' 1, 10.9,  2, 20.8,  3, 51.6,  4, 88.9,  5, 134.4,  6, 169.9,  7, 209.8,  8, 175.5,  9, 113,  10, 60.45,  11, 21.3,  12, 9.4 ')",
+2015/12/01 07:04:59,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:05:04,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Storage Capacity,New expression,4,,   1,1,141,909,4,
+2015/12/01 07:05:07,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Initial Storage,New expression,2.5,,   1,1,141,910,2.5,
+2015/12/01 07:05:10,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Volume Elevation Curve,New expression,"VolumeElevation( 0, 190 )",,   1,1,141,911,"@F048(' 0, 190 ')",
+2015/12/01 07:05:12,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Volume Elevation Curve,New expression,"VolumeElevation( 0, 190, 2, 197 )","VolumeElevation( 0, 190 )",   1,1,141,911,"@F048(' 0, 190, 2, 197 ')","@F048(' 0, 190 ')"
+2015/12/01 07:05:13,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Volume Elevation Curve,New expression,"VolumeElevation( 0, 190, 2, 197, 4, 200 )","VolumeElevation( 0, 190, 2, 197 )",   1,1,141,911,"@F048(' 0, 190, 2, 197, 4, 200 ')","@F048(' 0, 190, 2, 197 ')"
+2015/12/01 07:05:51,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Net Evaporation,New expression,"MonthlyValues( Jan, 10.9,  Feb, 20.8,  Mar, 51.6,  Apr, 88.9,  May, 134.4,  Jun, 169.9,  Jul, 209.8,  Aug, 175.5,  Sep, 113,  Oct, 60.45,  Nov, 21.3,  Dec, 9.4 )",,   1,1,141,882,"@F040(' 1, 10.9,  2, 20.8,  3, 51.6,  4, 88.9,  5, 134.4,  6, 169.9,  7, 209.8,  8, 175.5,  9, 113,  10, 60.45,  11, 21.3,  12, 9.4 ')",
+2015/12/01 07:06:24,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Top of Conservation,New expression,2.6,,   1,1,141,879,2.6,
+2015/12/01 07:06:34,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Top of Buffer,New expression,2,,   1,1,141,878,2,
+2015/12/01 07:06:37,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reservoirs\Mountain Dell,Top of Inactive,New expression,0.98,,   1,1,141,877,0.98,
+2015/12/01 07:06:49,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Top of Conservation,New expression,24,,   1,1,139,879,24,
+2015/12/01 07:06:52,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reservoirs\Little Dell,Top of Buffer,New expression,5,,   1,1,139,878,5,
+2015/12/01 07:06:58,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:07:49,SYL,Current Accounts,Lambs Diversion,,Create Diversion,,,   5,1,48,15,,
+2015/12/01 07:07:49,SYL,Current Accounts,Lambs Diversion,,Change Active in Current Accounts?,Yes,,   6,1,48,0,Yes,
+2015/12/01 07:07:49,SYL,Current Accounts,Below Lambs Diversion Diverted Inflow,,Create River Reach,,,   5,1,49,16,,
+2015/12/01 07:07:53,SYL,Current Accounts,Lambs Diversion Inflow,,Create Tributary Inflow,,,   5,1,50,13,,
+2015/12/01 07:07:53,SYL,Current Accounts,Below Lambs Diversion Inflow,,Create River Reach,,,   5,1,51,16,,
+2015/12/01 07:07:53,SYL,Current Accounts,Lambs Diversion,,Connect tailflow,Lambs Diversion Inflow,,   9,1,48,0,50,0
+2015/12/01 07:07:57,SYL,Current Accounts,Lambs Diversion Outflow,,Create Diversion Outflow,,,   5,1,52,11,,
+2015/12/01 07:07:57,SYL,Current Accounts,Below Lambs Diversion Outflow,,Create River Reach,,,   5,1,53,16,,
+2015/12/01 07:08:07,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:08:07,SYL,Current Accounts,Below Lambs Diversion Inflow,,Delete River Reach,0,0,   13,1,51,16,0,0
+2015/12/01 07:08:07,SYL,Current Accounts,Supply and Resources\River\Dell Creek\Reaches\Below Lambs Diversion Inflow,,Delete Branch,,Below Lambs Diversion Inflow,   19,1,157,0,,Below Lambs Diversion Inflow
+2015/12/01 07:08:07,SYL,Current Accounts,Below Lambs Diversion Outflow,,Delete River Reach,0,0,   13,1,53,16,0,0
+2015/12/01 07:08:07,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reaches\Below Lambs Diversion Outflow,,Delete Branch,,Below Lambs Diversion Outflow,   19,1,159,0,,Below Lambs Diversion Outflow
+2015/12/01 07:08:07,SYL,Current Accounts,Below Lambs Diversion Inflow,,Create River Reach,,,   5,1,54,16,,
+2015/12/01 07:08:07,SYL,Current Accounts,Below Lambs Diversion Outflow,,Create River Reach,,,   5,1,55,16,,
+2015/12/01 07:08:54,SYL,Current Accounts,Supply and Resources\River\Lambs Diversion,Maximum Diversion,New expression,"MonthlyValues( Jan, 0,  Feb, 0,  Mar, 0.1,  Apr, 2.2,  May, 1.8,  Jun, 1 )",,   1,1,143,4,"@F040(' 1, 0,  2, 0,  3, 0.1,  4, 2.2,  5, 1.8,  6, 1 ')",
+2015/12/01 07:08:56,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:10:45,SYL,Current Accounts,Dell Creek Inflow,,Create Tributary Inflow,,,   5,1,56,13,,
+2015/12/01 07:10:45,SYL,Current Accounts,Below Dell Creek Inflow,,Create River Reach,,,   5,1,57,16,,
+2015/12/01 07:10:45,SYL,Current Accounts,Dell Creek,,Connect tailflow,Dell Creek Inflow,,   9,1,4,0,56,0
+2015/12/01 07:13:33,SYL,Current Accounts,Parleys Creek,,Create River,,,   5,1,58,6,,
+2015/12/01 07:13:33,SYL,Current Accounts,Below Parleys Creek Headflow,,Create River Reach,,,   5,1,59,16,,
+2015/12/01 07:13:56,SYL,Current Accounts,Lambs Creek Inflow,,Create Tributary Inflow,,,   5,1,60,13,,
+2015/12/01 07:13:56,SYL,Current Accounts,Below Lambs Creek Inflow,,Create River Reach,,,   5,1,61,16,,
+2015/12/01 07:13:56,SYL,Current Accounts,Lambs Creek,,Connect tailflow,Lambs Creek Inflow,,   9,1,6,0,60,0
+2015/12/01 07:14:30,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:14:30,SYL,Current Accounts,Below Dell Creek Inflow,,Delete River Reach,0,0,   13,1,57,16,0,0
+2015/12/01 07:14:30,SYL,Current Accounts,Supply and Resources\River\Lambs Creek\Reaches\Below Dell Creek Inflow,,Delete Branch,,Below Dell Creek Inflow,   19,1,162,0,,Below Dell Creek Inflow
+2015/12/01 07:14:30,SYL,Current Accounts,Below Lambs Creek Inflow,,Delete River Reach,0,0,   13,1,61,16,0,0
+2015/12/01 07:14:30,SYL,Current Accounts,Supply and Resources\River\Parleys Creek\Reaches\Below Lambs Creek Inflow,,Delete Branch,,Below Lambs Creek Inflow,   19,1,177,0,,Below Lambs Creek Inflow
+2015/12/01 07:14:30,SYL,Current Accounts,Below Dell Creek Inflow,,Create River Reach,,,   5,1,64,16,,
+2015/12/01 07:14:30,SYL,Current Accounts,Below Lambs Creek Inflow,,Create River Reach,,,   5,1,65,16,,
+2015/12/01 07:15:15,SYL,Current Accounts,Salt Lake City,,Create Demand Site,,,   5,1,66,1,,
+2015/12/01 07:15:15,SYL,Current Accounts,Salt Lake City,,Change Active in Current Accounts?,Yes,,   6,1,66,0,Yes,
+2015/12/01 07:15:23,SYL,Current Accounts,Murray,,Create Demand Site,,,   5,1,67,1,,
+2015/12/01 07:15:23,SYL,Current Accounts,Murray,,Change Active in Current Accounts?,Yes,,   6,1,67,0,Yes,
+2015/12/01 07:15:34,SYL,Current Accounts,Midvale,,Create Demand Site,,,   5,1,68,1,,
+2015/12/01 07:15:34,SYL,Current Accounts,Midvale,,Change Active in Current Accounts?,Yes,,   6,1,68,0,Yes,
+2015/12/01 07:15:34,SYL,Current Accounts,Demand Sites and Catchments\Midvale,Demand Priority,New expression,3,,   1,1,189,220,3,
+2015/12/01 07:15:44,SYL,Current Accounts,Agriculture,,Create Demand Site,,,   5,1,69,1,,
+2015/12/01 07:15:44,SYL,Current Accounts,Agriculture,,Change Active in Current Accounts?,Yes,,   6,1,69,0,Yes,
+2015/12/01 07:15:44,SYL,Current Accounts,Demand Sites and Catchments\Agriculture,Demand Priority,New expression,2,,   1,1,194,220,2,
+2015/12/01 07:15:53,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:20:00,SYL,,Demand Sites and Catchments\Salt Lake City,ActivityUnit,Change data,75,95,   20,-1,179,23,75,95
+2015/12/01 07:20:12,SYL,Current Accounts,Demand Sites and Catchments\Salt Lake City,Annual Activity Level,New expression,285000,,   1,1,179,27,285000,
+2015/12/01 07:20:49,SYL,Reference,Demand Sites and Catchments\Salt Lake City,Annual Activity Level,New expression,1.2,,   1,2,179,27,1.2,
+2015/12/01 07:21:19,SYL,Reference,Demand Sites and Catchments\Salt Lake City,Annual Activity Level,New expression,Growth(1.2%),1.2,   1,2,179,27,@F001(@F010(1.2)),1.2
+2015/12/01 07:22:04,SYL,,Demand Sites and Catchments\Murray,ActivityUnit,Change data,75,95,   20,-1,184,23,75,95
+2015/12/01 07:22:17,SYL,Current Accounts,Demand Sites and Catchments\Murray,Annual Activity Level,New expression,31000,,   1,1,184,27,31000,
+2015/12/01 07:22:32,SYL,Reference,Demand Sites and Catchments\Murray,Annual Activity Level,New expression,Growth(1.9%),,   1,2,184,27,@F001(@F010(1.9)),
+2015/12/01 07:22:40,SYL,,Demand Sites and Catchments\Midvale,ActivityUnit,Change data,75,95,   20,-1,189,23,75,95
+2015/12/01 07:22:48,SYL,Current Accounts,Demand Sites and Catchments\Midvale,Annual Activity Level,New expression,11000,,   1,1,189,27,11000,
+2015/12/01 07:23:01,SYL,Reference,Demand Sites and Catchments\Midvale,Annual Activity Level,New expression,Growth(2%),,   1,2,189,27,@F001(@F010(2)),
+2015/12/01 07:23:03,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:23:50,SYL,Current Accounts,Demand Sites and Catchments\Midvale,Annual Water Use Rate,New expression,100,,   1,1,189,40,100,
+2015/12/01 07:23:54,SYL,Current Accounts,Demand Sites and Catchments\Midvale,Consumption,New expression,15,,   1,1,189,251,15,
+2015/12/01 07:24:02,SYL,Current Accounts,Demand Sites and Catchments\Murray,Consumption,New expression,15,,   1,1,184,251,15,
+2015/12/01 07:24:06,SYL,Current Accounts,Demand Sites and Catchments\Salt Lake City,Consumption,New expression,15,,   1,1,179,251,15,
+2015/12/01 07:24:10,SYL,Current Accounts,Demand Sites and Catchments\Salt Lake City,Annual Water Use Rate,New expression,100,,   1,1,179,40,100,
+2015/12/01 07:24:13,SYL,Current Accounts,Demand Sites and Catchments\Murray,Annual Water Use Rate,New expression,100,,   1,1,184,40,100,
+2015/12/01 07:25:25,SYL,,Demand Sites and Catchments\Agriculture,ActivityUnit,Change data,32,95,   20,-1,194,23,32,95
+2015/12/01 07:25:30,SYL,Current Accounts,Demand Sites and Catchments\Agriculture,Annual Activity Level,New expression,21000,,   1,1,194,27,21000,
+2015/12/01 07:25:41,SYL,Current Accounts,Demand Sites and Catchments\Agriculture,Annual Water Use Rate,New expression,1500,,   1,1,194,40,1500,
+2015/12/01 07:26:42,SYL,Current Accounts,Demand Sites and Catchments\Agriculture,Monthly Variation,New expression,"MonthlyValues( Jan, 0,  Feb, 0,  Mar, 0,  Apr, 5,  May, 10,  Jun, 10,  Jul, 20,  Aug, 30,  Sep, 25,  Oct, 0,  Nov, 0,  Dec, 0 )",,   1,1,194,849,"@F040(' 1, 0,  2, 0,  3, 0,  4, 5,  5, 10,  6, 10,  7, 20,  8, 30,  9, 25,  10, 0,  11, 0,  12, 0 ')",
+2015/12/01 07:26:58,SYL,Current Accounts,Demand Sites and Catchments\Agriculture,Consumption,New expression,90,,   1,1,194,251,90,
+2015/12/01 07:27:22,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:27:39,SYL,Current Accounts,,,Delete River,0,0,   13,1,72,6,0,0
+2015/12/01 07:27:53,SYL,Current Accounts,Discharge to Jordan River,,Create River,,,   5,1,72,6,,
+2015/12/01 07:27:53,SYL,Current Accounts,Below Discharge to Jordan River Headflow,,Create River Reach,,,   5,1,73,16,,
+2015/12/01 07:28:16,SYL,Current Accounts,City Creek Inflow,,Create Tributary Inflow,,,   5,1,74,13,,
+2015/12/01 07:28:16,SYL,Current Accounts,Below City Creek Inflow,,Create River Reach,,,   5,1,75,16,,
+2015/12/01 07:28:16,SYL,Current Accounts,City Creek,,Connect tailflow,City Creek Inflow,,   9,1,2,0,74,0
+2015/12/01 07:28:20,SYL,Current Accounts,Parleys Creek,,Connect tailflow,City Creek Inflow,,   9,1,58,0,74,0
+2015/12/01 07:28:27,SYL,Current Accounts,Big Cottonwood,,Connect tailflow,City Creek Inflow,,   9,1,8,0,74,0
+2015/12/01 07:29:31,SYL,Current Accounts,City Creek,,Disconnect tailflow,,City Creek Inflow,   10,1,2,0,0,74
+2015/12/01 07:30:23,SYL,Current Accounts,City Creek,,Connect tailflow,City Creek Inflow,,   9,1,2,0,74,0
+2015/12/01 07:30:45,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:30:45,SYL,Current Accounts,Below City Creek Inflow,,Delete River Reach,0,0,   13,1,75,16,0,0
+2015/12/01 07:30:45,SYL,Current Accounts,Supply and Resources\River\Discharge to Jordan River\Reaches\Below City Creek Inflow,,Delete Branch,,Below City Creek Inflow,   19,1,213,0,,Below City Creek Inflow
+2015/12/01 07:30:45,SYL,Current Accounts,Below City Creek Inflow,,Create River Reach,,,   5,1,76,16,,
+2015/12/01 07:32:25,SYL,Current Accounts,Withdrawal Node 1,,Create River Withdrawal,,,   5,1,77,10,,
+2015/12/01 07:32:25,SYL,Current Accounts,Below Withdrawal Node 1,,Create River Reach,,,   5,1,78,16,,
+2015/12/01 07:32:41,SYL,Current Accounts,Transmission Link from Withdrawal Node 1 to Salt Lake City,,Create Transmission Link,,,   5,1,79,7,,
+2015/12/01 07:32:51,SYL,Current Accounts,Withdrawal Node 1,,Create River Withdrawal,,,   5,1,80,10,,
+2015/12/01 07:32:51,SYL,Current Accounts,Below Withdrawal Node 1,,Create River Reach,,,   5,1,81,16,,
+2015/12/01 07:32:54,SYL,Current Accounts,Transmission Link from Withdrawal Node 1 to Salt Lake City,,Create Transmission Link,,,   5,1,82,7,,
+2015/12/01 07:32:58,SYL,Current Accounts,Withdrawal Node 1,,Create River Withdrawal,,,   5,1,83,10,,
+2015/12/01 07:32:58,SYL,Current Accounts,Below Withdrawal Node 1,,Create River Reach,,,   5,1,84,16,,
+2015/12/01 07:33:01,SYL,Current Accounts,Transmission Link from Withdrawal Node 1 to Salt Lake City,,Create Transmission Link,,,   5,1,85,7,,
+2015/12/01 07:33:13,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Murray,,Create Transmission Link,,,   5,1,86,7,,
+2015/12/01 07:33:19,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Murray,,Create Transmission Link,,,   5,1,87,7,,
+2015/12/01 07:33:28,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Midvale,,Create Transmission Link,,,   5,1,88,7,,
+2015/12/01 07:33:35,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Agriculture,,Create Transmission Link,,,   5,1,89,7,,
+2015/12/01 07:33:42,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Midvale,,Create Transmission Link,,,   5,1,90,7,,
+2015/12/01 07:34:16,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Agriculture,,Create Transmission Link,,,   5,1,91,7,,
+2015/12/01 07:34:25,SYL,Current Accounts,Transmission Link from Salt Lake City Withdrawal to Agriculture,,Create Transmission Link,,,   5,1,92,7,,
+2015/12/01 07:34:35,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:35:38,SYL,Current Accounts,Salt Lake City Return,,Create Return Flow Node,,,   5,1,97,17,,
+2015/12/01 07:35:38,SYL,Current Accounts,Below Salt Lake City Return,,Create River Reach,,,   5,1,98,16,,
+2015/12/01 07:35:38,SYL,Current Accounts,Return Flow from Salt Lake City to Discharge to Jordan River,,Create Return Flow,,,   5,1,99,8,,
+2015/12/01 07:36:25,SYL,Current Accounts,Return Flow from Murray to Discharge to Jordan River,,Create Return Flow,,,   5,1,102,8,,
+2015/12/01 07:36:31,SYL,Current Accounts,Return Flow from Midvale to Discharge to Jordan River,,Create Return Flow,,,   5,1,103,8,,
+2015/12/01 07:36:35,SYL,Current Accounts,Return Flow from Agriculture to Discharge to Jordan River,,Create Return Flow,,,   5,1,104,8,,
+2015/12/01 07:36:37,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:37:01,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 07:37:09,SYL,Current Accounts,,,Calculate results,0:0:00.063,0 seconds per year (Catchments calculated: 4 of 4),   14,1,0,0,0:0:00.063,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:37:10,SYL,Reference,,,Calculate results,0:0:00.935,0 seconds per year (Catchments calculated: 4 of 4),   14,2,0,0,0:0:00.935,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:37:11,SYL,rcp26,,,Calculate results,0:0:00.999,0 seconds per year (Catchments calculated: 4 of 4),   14,3,0,0,0:0:00.999,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:37:12,SYL,rcp45,,,Calculate results,0:0:00.949,0 seconds per year (Catchments calculated: 4 of 4),   14,4,0,0,0:0:00.949,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:37:13,SYL,rcp60,,,Calculate results,0:0:01.022,0 seconds per year (Catchments calculated: 4 of 4),   14,5,0,0,0:0:01.022,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:37:14,SYL,rcp85,,,Calculate results,0:0:00.992,0 seconds per year (Catchments calculated: 4 of 4),   14,6,0,0,0:0:00.992,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 07:37:15,SYL,,,,Calculate results,0:00:05.496,"0.04 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:03.126 (h:m:s), NumSolves=11908, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0",   14,0,0,0,0:00:05.496,"0.04 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:03.126 (h:m:s), NumSolves=11908, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0"
+2015/12/01 07:40:07,SYL,,,,Area saved,,,   4,0,0,0,,
+2015/12/01 14:55:45,SYL,,,,Area directory changed,Salt Lake City_2,Salt Lake City,   3,0,0,0,Salt Lake City_2,Salt Lake City
+2015/12/01 14:55:54,SYL,Current Accounts,,,Calculate results,0:0:00.125,0 seconds per year (Catchments calculated: 4 of 4),   14,1,0,0,0:0:00.125,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:55:55,SYL,Reference,,,Calculate results,0:0:00.969,0 seconds per year (Catchments calculated: 4 of 4),   14,2,0,0,0:0:00.969,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:55:55,SYL,rcp26,,,Calculate results,0:0:00.921,0 seconds per year (Catchments calculated: 4 of 4),   14,3,0,0,0:0:00.921,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:55:56,SYL,rcp45,,,Calculate results,0:0:00.953,0 seconds per year (Catchments calculated: 4 of 4),   14,4,0,0,0:0:00.953,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:55:57,SYL,rcp60,,,Calculate results,0:0:00.952,0 seconds per year (Catchments calculated: 4 of 4),   14,5,0,0,0:0:00.952,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:55:58,SYL,rcp85,,,Calculate results,0:0:01.047,0 seconds per year (Catchments calculated: 4 of 4),   14,6,0,0,0:0:01.047,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:55:59,SYL,,,,Calculate results,0:00:05.576,"0.04 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City_2\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:03.269 (h:m:s), NumSolves=11908, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0",   14,0,0,0,0:00:05.576,"0.04 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City_2\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:03.269 (h:m:s), NumSolves=11908, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0"
+2015/12/01 14:56:07,SYL,Current Accounts,Demand Sites and Catchments\Lamb Creek watershed,Area,New expression,54,44,   1,1,113,137,54,44
+2015/12/01 14:56:10,SYL,Current Accounts,Demand Sites and Catchments\Dell Creek watershed,Area,New expression,44,54,   1,1,108,137,44,54
+2015/12/01 14:56:13,SYL,Current Accounts,,,Calculate results,0:0:00.063,0 seconds per year (Catchments calculated: 4 of 4),   14,1,0,0,0:0:00.063,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:56:14,SYL,Reference,,,Calculate results,0:0:00.967,0 seconds per year (Catchments calculated: 4 of 4),   14,2,0,0,0:0:00.967,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:56:15,SYL,rcp26,,,Calculate results,0:0:01.014,0 seconds per year (Catchments calculated: 4 of 4),   14,3,0,0,0:0:01.014,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:56:16,SYL,rcp45,,,Calculate results,0:0:00.983,0 seconds per year (Catchments calculated: 4 of 4),   14,4,0,0,0:0:00.983,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:56:17,SYL,rcp60,,,Calculate results,0:0:00.998,0 seconds per year (Catchments calculated: 4 of 4),   14,5,0,0,0:0:00.998,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:56:17,SYL,rcp85,,,Calculate results,0:0:00.939,0 seconds per year (Catchments calculated: 4 of 4),   14,6,0,0,0:0:00.939,0 seconds per year (Catchments calculated: 4 of 4)
+2015/12/01 14:56:18,SYL,,,,Calculate results,0:00:05.494,"0.04 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City_2\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:03.019 (h:m:s), NumSolves=11908, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0",   14,0,0,0,0:00:05.494,"0.04 seconds per year (1980-2009)  LPScaleFactor: 1000  LargestScaledValueToUse: 100000  SmallestValueAllowed: Default=1.0E-007  ScaleMode: Default=0  BasisCrash: Default=0  Computer Name: CME-119-03  WEAP Version: 2015  AreaDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\Salt Lake City_2\  WorkDir: C:\Users\Seungyub\Dropbox\PHD\2015-Fall\2015-Fall-Hydroinformatics\WEAP\_WORK\  Solver=LP Solve 5.520, Time in Solver=0:00:03.019 (h:m:s), NumSolves=11908, numPresolves=0, NumRetries=0, NumCoverageConstraintsRemoved=0, NumCoverageConstraintsExtraSolves=0, NumScalingSolves=0, NumWedgesReduced=0, NumExtraLPConstraintsRemoved=0, NumFloodConstraintsRemoved=0, NumMHOConstraintsRemoved=0, numSaveAndReload=0, NumChangeEpsilons=0, NumGLPK=0, NumInfeasible=0, NumTimeouts=0"
+2015/12/01 14:56:23,SYL,,,,Area saved,,,   4,0,0,0,,
